@@ -89,3 +89,6 @@ Open a pull request.
 
 ### License
 This project is licensed under the MIT License.
+
+### Contributors
+Help from TA Diem Ly and also starter code from SMU Instructor Tyler Calvert.
